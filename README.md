@@ -7,7 +7,7 @@ The goal is to understand how SQL queries are processed internally by a database
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/in_memory_sql_engine.git
+   git clone https://github.com/palaparthisupriya/Mini-SQL-database-Engine
 2. Navigate to the project directory:
    cd in_memory_sql_engine
 3. (Optional) Create a virtual environment:
